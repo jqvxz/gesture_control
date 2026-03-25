@@ -1,0 +1,33 @@
+{
+  "camera_index": 0,
+  "smoothing": 5,
+  "click_threshold": 0.266,
+  "scroll_speed": 114,
+  "show_camera": true,
+  "control_area": 50.0,
+  "camera_zoom": 1.463917525773196,
+  "tracked_hand": "Right Hand Only",
+  "enable_volume": true,
+  "volume_threshold": 1.0,
+  "both_hands_open_frames": 3,
+  "gestures": {
+    "thumb_index_pinch": "left_click",
+    "thumb_middle_pinch": "right_click",
+    "thumb_ring_pinch": "double_click",
+    "thumb_pinky_pinch": "middle_click",
+    "two_fingers_up": "scroll_mode",
+    "fist": "win_tab",
+    "open_hand": "none",
+    "both_hands_open": "desktop_keyboard"
+  },
+  "enable_head_tracking": true,
+  "head_yaw_threshold": 0.45,
+  "head_pitch_threshold": 0.45,
+  "head_actions": {
+    "head_left": "win_tab",
+    "head_right": "none",
+    "head_up": "none",
+    "head_down": "none"
+  },
+  "shortcuts": []
+}

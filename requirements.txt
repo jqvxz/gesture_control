@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+PyAutoGUI
+numpy
+psutil
+pynput
+nvidia-ml-py
