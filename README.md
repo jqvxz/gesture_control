@@ -16,7 +16,7 @@ python main.py
 ## Features
 - Tracking of both your hands
 - Execute commands or shortcuts via hand movement or gestures
-- Custom commands or shortcuts
+- Custom commands or shortcuts (soon)
 - Mouse control
 
 ## Authors
